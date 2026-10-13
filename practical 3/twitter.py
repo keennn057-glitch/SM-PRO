@@ -49,3 +49,5 @@ print(df)
 df.to_csv("twitter_data.csv", index=False) 
  
 print("\nData collected successfully.") 
+
+# pip install tweepy pandas 
